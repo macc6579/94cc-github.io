@@ -1,15 +1,16 @@
-## Welcome to GitHub Pages
+## 个人简历
 
-You can use the [editor on GitHub](https://github.com/macc6579/94cc-github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 联系方式
+- 手机: +86 18500982217
+- E-mail: mcchr@163.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 简介
+- 马成成，94年
+- 2013-2017 湖北工业大学 信息管理与信息系统  管理学学士
+- 2014-2015 武汉大学  法语辅修
+- 2017-2018 测试工程师
+- 2019至今 转行前端ing
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
