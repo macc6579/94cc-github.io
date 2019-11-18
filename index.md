@@ -1,4 +1,4 @@
-## 个人简历
+## 个人信息
 
 ### 联系方式
 - 手机: +86 18500982217
@@ -11,28 +11,10 @@
 - 2017-2018 测试工程师
 - 2019至今 转行前端ing
 
+## 项目链接
+- 仿简书 React https://www.whc512.org:3006
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/macc6579/94cc-github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
