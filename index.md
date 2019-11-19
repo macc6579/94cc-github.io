@@ -12,4 +12,4 @@
 - 2019至今 转行前端ing
 
 ## 项目链接
-- 仿简书 React [https://www.whc512.org:3006]
+- 仿简书 React [http://whc512.org:3006/]
