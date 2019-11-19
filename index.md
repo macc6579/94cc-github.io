@@ -12,7 +12,4 @@
 - 2019至今 转行前端ing
 
 ## 项目链接
-- 仿简书 React [Link](https://www.whc512.org:3006)
-
-
-**Bold and _Italic_ and `Code` text [Link](url) and ![Image](src) **
+- 仿简书 React [https://www.whc512.org:3006]
